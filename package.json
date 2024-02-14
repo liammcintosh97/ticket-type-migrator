@@ -1,0 +1,14 @@
+{
+  "name": "ticket-type-migrator",
+  "version": "1.0.0",
+  "description": "Asana Ticket Type Migrator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asana": "^0.18.6"
+  }
+}
